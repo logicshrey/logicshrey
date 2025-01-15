@@ -17,7 +17,7 @@
 
 ### 💡 Core Competencies
 
-typescript
+```typescript
 const shreyas = {
     backend: ["Node.js", "Express.js", "Python"],
     frontend: ["React.js", "Redux", "Tailwind CSS"],
@@ -26,9 +26,9 @@ const shreyas = {
     tools: ["Git", "Streamlit", "VS Code", "Postman", "NPM"],
     currentFocus: "Building scalable backend systems"
 };
+```
 
-
-## 🛠 Technology Arsenal
+## 🛠️ Technology Arsenal
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -67,18 +67,18 @@ const shreyas = {
 
 ## 🎯 Current Focus
 
-- 🏗 Mastering advanced backend concepts and architectural patterns
+- 🏗️ Mastering advanced backend concepts and architectural patterns
 - 🐍 Exploring Python ecosystem with focus on FastAPI development
 - 📊 Deep diving into Advanced Database Management Systems
 - 🔧 Learning system design principles for scalable applications
 
 ## 📈 Weekly Development Breakdown
 
-text
+```text
 Backend Development    ███████████████░░░░░   60%
 Frontend Development   ███████░░░░░░░░░░░░░   30%
 Database Management    ██░░░░░░░░░░░░░░░░░░   10%
-
+```
 
 ## 🤝 Connect With Me
 
