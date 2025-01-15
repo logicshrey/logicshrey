@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👨‍💻 Shreyas Dabhade
+  # 👨‍💻 Shreyas Girish Dabhade
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;Problem+Solver)
   
